@@ -1,0 +1,52 @@
+[
+    {
+      "token_id": "3800000000000040",
+      "name": "Cudgel",
+      "icon": "https://master.tp-enj.in/storage/images/items/3800000000000040.0.png"
+    },
+    {
+      "token_id": "5800000000000026",
+      "name": "Battleaxe",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "5800000000000027",
+      "name": "Bow",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "580000000000003b",
+      "name": "Sword",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "580000000000003c",
+      "name": "Sword",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "580000000000003d",
+      "name": "Cf-Battleaxe",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "580000000000003e",
+      "name": "Cf-sword1",
+      "icon": "https://master.tp-enj.in/img/default-item-icon.png"
+    },
+    {
+      "token_id": "7800000000000045",
+      "name": "POWERED BATTLEAXE OF MIGHT",
+      "icon": "https://master.tp-enj.in/storage/images/items/7800000000000045.0.png"
+    },
+    {
+      "token_id": "7800000000000046",
+      "name": "FINE PIKE OF STRENGTH",
+      "icon": "https://master.tp-enj.in/storage/images/items/7800000000000046.0.png"
+    },
+    {
+      "token_id": "7800000000000047",
+      "name": "test-metadata",
+      "icon": "https://master.tp-enj.in/storage/images/items/7800000000000047.0.png"
+    }
+  ]

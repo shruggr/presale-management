@@ -1,0 +1,88 @@
+[
+    {
+        "ID": "0x5800000000000026000000000000000000000000000000000000000000000000",
+        "Name": "Battleaxe",
+        "MeltValue": 7,
+        "Quality": "Common",
+        "Type": "One-Hand",
+        "Subtype": "Battleaxe",
+        "RequiredLevel": 0,
+        "DamageDice": {
+            "DiceNumber": 1,
+            "DiceFace": 6
+        },
+        "DamageType": "Slash",
+        "WeaponProperties": [
+            "Brutal",
+            "Assault",
+            "Versatile"
+        ],
+        "Effects": {
+            "Strength": 0,
+            "Agility": 0,
+            "Vitality": 0,
+            "Health": 0,
+            "BaseDamageBuff": 0,
+            "BaseDamageDebuff": 0,
+            "FireDamage": 0,
+            "ColdDamage": 0,
+            "LightingDamage": 0,
+            "PoisonDamage": 0,
+            "NecroticDamage": 0,
+            "MysticDamage": 0,
+            "WarfareDamage": 0,
+            "Initiative": 0,
+            "Evasion": 0,
+            "Regen": 0,
+            "AllStats": 0,
+            "ExtraEffects": null
+        },
+        "Description": "A battleaxe is a specialized versions of an utility axe, specifically designed for battle.",
+        "Image": "https://items.cryptofights.io/renders/transparent-full-weapon/common/battleaxe.png",
+        "Sketchfab": "https://sketchfab.com/models/de0c7e16875b4f5ba833635bd39912ed/embed?autostart=1",
+        "Price": "75000000000000000"
+    },
+    {
+        "ID": "0x5800000000000027000000000000000000000000000000000000000000000000",
+        "Name": "Bow",
+        "MeltValue": 7,
+        "Quality": "Common",
+        "Type": "Two-Hand",
+        "Subtype": "Bow",
+        "RequiredLevel": 0,
+        "DamageDice": {
+            "DiceNumber": 1,
+            "DiceFace": 10
+        },
+        "DamageType": "Pierce",
+        "WeaponProperties": [
+            "Dextrous",
+            "Precision",
+            "Heavy"
+        ],
+        "Effects": {
+            "Strength": 0,
+            "Agility": 0,
+            "Vitality": 0,
+            "Health": 0,
+            "BaseDamageBuff": 0,
+            "BaseDamageDebuff": 0,
+            "FireDamage": 0,
+            "ColdDamage": 0,
+            "LightingDamage": 0,
+            "PoisonDamage": 0,
+            "NecroticDamage": 0,
+            "MysticDamage": 0,
+            "WarfareDamage": 0,
+            "Initiative": 0,
+            "Evasion": 0,
+            "Regen": 0,
+            "AllStats": 0,
+            "ExtraEffects": null
+        },
+        "Description": "Archery is an art; A bowman needs skill to land precision shots and vanquish his foes from afar.",
+        "Image": "https://items.cryptofights.io/renders/transparent-full-weapon/common/bow.png",
+        "Sketchfab": "https://sketchfab.com/models/64abf1300b1a4319849b4817a186f09e/embed?autostart=1",
+        "Price": "75000000000000000"
+    }
+]
